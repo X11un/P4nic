@@ -4,7 +4,7 @@
 #include "SysInfo.h"
 
 
-void GetRamInfo(long *total, long *available) {
+void getRamInfo(long *total, long *available) {
 
     FILE *file = fopen("/proc/meminfo", "r");
 
