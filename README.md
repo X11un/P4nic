@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🖥️ P4nic API
 
 **P4nic API** est une API web ultra-légère, écrite entièrement en C, conçue pour surveiller les ressources système de mon Raspberry Pi 4. Elle fonctionne en arrière-plan et fournit des statistiques en temps réel via des requêtes HTTP.
